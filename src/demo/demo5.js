@@ -24,7 +24,7 @@ class Foo {
   removeAt(id) {
     this.items.splice(id, 1);
     if (this.selected >= id) {
-      this.selected --;
+      this.selected--;
     }
   }
 
