@@ -8,11 +8,11 @@ MobX 是一个经过战火洗礼的库，它通过透明的函数响应式编程
 
 其中包括 UI、数据序列化、服务器通讯，等等。
 
-![flow](/Users/zkw/Desktop/flow.png)
+![flow](https://github.com/JangGwa/MobXDemo/blob/master/src/image/flow.png)
 
 ### 实战
 
-接下去我们将通过几个简单的小例子来认识一下 MobX，这个用 react + mobx 写的 demo 我放在 GitHub 上，地址：https://github.com/JangGwa/MobXDem
+接下去我们将通过几个简单的小例子来认识一下 MobX，这个用 react + mobx 写的 demo 我放在 GitHub 上，地址：https://github.com/JangGwa/MobXDemo
 
 #### 一、初识 observable 与 autorun
 
